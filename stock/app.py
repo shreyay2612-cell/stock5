@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 import json
 import os
@@ -111,10 +109,10 @@ def main():
     # Getting started
     st.markdown("## 🚀 Getting Started")
     st.info("""
-    1. **Login**: Go to the Homepage to create an account or login
-    2. **Explore Market**: Check live market data and top performers
-    3. **Get Recommendations**: Use our AI-powered recommendation engines
-    4. **Manage Portfolio**: Track your investments and performance
+    1. **Login**: Go to the Homepage to create an account or login  
+    2. **Explore Market**: Check live market data and top performers  
+    3. **Get Recommendations**: Use our AI-powered recommendation engines  
+    4. **Manage Portfolio**: Track your investments and performance  
     """)
     
     # Authentication status
