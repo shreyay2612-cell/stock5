@@ -1,0 +1,30 @@
+{
+  "test": {
+    "password": "87924606b4131a8aceeeae8868531fbb9712aaa07a5d3a756b26ce0f5d6ca674",
+    "email": "test@gmail.com",
+    "created_date": "2025-09-13T21:20:38.284584",
+    "total_investment": 0,
+    "portfolio_value": 0
+  },
+  "test1": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "test@gmail.com",
+    "created_date": "2025-09-17T12:06:19.720985",
+    "total_investment": 0,
+    "portfolio_value": 0
+  },
+  "test2": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "test@gmail.com",
+    "created_date": "2025-09-17T18:27:23.240341",
+    "total_investment": 0,
+    "portfolio_value": 0
+  },
+  "test3": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "email": "test@gmail.com",
+    "created_date": "2025-10-08T09:08:50.201581",
+    "total_investment": 0,
+    "portfolio_value": 0
+  }
+}

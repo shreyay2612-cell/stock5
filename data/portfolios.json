@@ -1,0 +1,67 @@
+{
+  "test": {
+    "stocks": {
+      "AAPL": 1,
+      "TSLA": 6,
+      "AMZN": 12,
+      "GOOGL": 4
+    },
+    "transactions": [
+      {
+        "symbol": "AAPL",
+        "quantity": 1,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "BUY",
+        "date": "2025-09-13T21:29:11.531894"
+      },
+      {
+        "symbol": "TSLA",
+        "quantity": 6,
+        "price": 100.11000000000006,
+        "total": 600.6600000000003,
+        "type": "BUY",
+        "date": "2025-09-13T21:30:23.529737"
+      },
+      {
+        "symbol": "AMZN",
+        "quantity": 12,
+        "price": 200.0,
+        "total": 2400.0,
+        "type": "BUY",
+        "date": "2025-09-13T21:30:38.525673"
+      },
+      {
+        "symbol": "GOOGL",
+        "quantity": 4,
+        "price": 156.0,
+        "total": 624.0,
+        "type": "BUY",
+        "date": "2025-09-13T21:30:54.478239"
+      }
+    ]
+  },
+  "test1": {
+    "stocks": {
+      "AAPL": 1
+    },
+    "transactions": [
+      {
+        "symbol": "AAPL",
+        "quantity": 1,
+        "price": 100.0,
+        "total": 100.0,
+        "type": "BUY",
+        "date": "2025-09-17T12:09:05.201013"
+      }
+    ]
+  },
+  "test2": {
+    "stocks": {},
+    "transactions": []
+  },
+  "test3": {
+    "stocks": {},
+    "transactions": []
+  }
+}
